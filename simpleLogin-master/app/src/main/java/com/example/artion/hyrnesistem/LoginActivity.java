@@ -17,7 +17,7 @@ public class LoginActivity extends AppCompatActivity {
     public String inEmail;
     public String inPassword;
 
-    @Override
+  //  @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
