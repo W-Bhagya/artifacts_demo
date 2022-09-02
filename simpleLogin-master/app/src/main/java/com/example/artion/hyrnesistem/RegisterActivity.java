@@ -21,7 +21,7 @@ public class RegisterActivity extends AppCompatActivity {
     public EditText phone;
     public String inPhone;
     public Button register;
-    @Override
+ //   @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_register);
